@@ -1,2 +1,2 @@
 # Medio-Ambiente
-Sistema programado en el lenguaje C# . Uso de la programación orientada a objetos. Creación de interfaces en C#. 
+Sistema programado en el lenguaje C# . Uso de la programación orientada a objetos. Creación de interfaces en C#. Se realizo la creacion de varias clases que se representan con una I al principio que significa interfaz. Las clases son IContaminacion, IFacturas e IOperacion. Las demas clases creadas para llamar a las interfaces son Contaminacion, ContaminacionMundial, ImpactoAmbiental, Facturacion y Csuma.
